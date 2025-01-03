@@ -14,6 +14,6 @@ I trade mostly on price action (short term/intra-day) and mean reversion (long t
 
 My current philosophy around day trading is mostly momentum based and can be termed "omega-scalping", basically wait for price trends to fully form then follow the masses, in short buy high sell higher (longs) and sell low buy lower (shorts). I also sit down to assess my failed trades and understand what was wrong with my thought process instead of calling myself the crypto cohen/livermore.
 
-These short positions are from the aftermath of the trunp inspired bull run Q424.
+These short positions are from the aftermath of the trump inspired bull run Q424 using leverage to amplify profits.
 ![TAO Short ROE](https://github.com/ayodeji-0/Kraken-Track-Record/blob/main/KrakenPro_Position_TAO_USD_short_2024-12-20%20(1).png)
 ![SOL Short ROE](https://github.com/ayodeji-0/Kraken-Track-Record/blob/main/KrakenPro_Position_SOL_USD_short_2024-12-20%20(1).png)
