@@ -11,7 +11,7 @@ I started trading because it represented a less random form of livebetting...lol
 But in trading assets the amount of historical data that you have access to is orders of magnitudes higher than the information available about league of legends team and individual player stats, hence more conclusive evidence can be found in data.
 
 
-I trade mostly on price action (short term/intra-day) and mean reversion (long term/swing trading),backtested both of these with quantstats and got sensible results, with plans to extend valuation analysis to calculating the prices of cryptocurrencies using bitcoin-proxy/correlation values and discounted utility models, sine they generally have no intrinsic value.
+I trade mostly on price action (short term/intra-day) and mean reversion/moving average crossovers (long term/swing trading),backtested both of these with quantstats and got sensible results, with plans to extend valuation analysis to calculating the prices of cryptocurrencies using bitcoin-proxy/correlation values and discounted utility models, sine they generally have no intrinsic value.
 
 
 My current philosophy around day trading is mostly momentum based and can be termed "omega-scalping", basically wait for price trends to fully form then follow the masses, in short buy high sell higher (longs) and sell low buy lower (shorts). I also sit down to assess my failed trades and understand what was wrong with my thought process instead of calling myself the crypto cohen/livermore.
