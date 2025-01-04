@@ -2,7 +2,7 @@
 
 ROE and PnL graphics from leveraged crypto positions.
 
-**Disclaimer** Contents of this repo are handpicked wins and do not reflect my overall win-rate... which is slightly positive c.62% wr with most trades balancing out to a 3:1 risk-reward ratio so risk-adjusted wr is c.24%.
+**Disclaimer** Contents of this repo are handpicked wins and do not reflect my overall win-rate... which is slightly positive c.62% wr with most trades balancing out to a 3:1 risk-reward ratio so break even needed is 25%.
 
 They are just for proof that I have some "skin in the game" i.e., personal experience with systematic trading with my own money.
 I started trading because it represented a less random form of livebetting...lol... I literally used to live bet on league of legends games when I was 16 (21 now) so yea...made money tho, then lost it on csgo cases :(.
